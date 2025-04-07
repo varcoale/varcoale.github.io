@@ -1,11 +1,12 @@
+<!DOCTYPE html>
 <html>
 	<head>
         <style>
             .borderbox {
                 border:2px solid #000;
                 padding: 20px;
-                width: 180px;
-                height: 160px;
+                width: 250px;
+                height: 250px;
             }
             
         </style>
@@ -52,3 +53,4 @@
     </div>
 	</body>
 </html>
+	
