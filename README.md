@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 	<head>
         <style>
@@ -6,7 +5,7 @@
                 border:2px solid #000;
                 padding: 20px;
                 width: 250px;
-                height: 250px;
+                height: 280px;
             }
             
         </style>
