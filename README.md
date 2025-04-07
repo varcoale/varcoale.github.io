@@ -1,6 +1,14 @@
-<!DOCTYPE html>
 <html>
 	<head>
+        <style>
+            .borderbox {
+                border:2px solid #000;
+                padding: 20px;
+                width: 180px;
+                height: 160px;
+            }
+            
+        </style>
 		<script>
 			function add(){
 			var num1, num2;
@@ -29,6 +37,7 @@
 		</script>
 	</head>
 	<body>
+        <div class="borderbox">
 	<form name="form1">
 		Enter operand 1:
 		<input type="text" name="txtNum1" size=8><br><br>
@@ -40,6 +49,6 @@
 		<input type="button" value="/" onclick="div()"><br><br>
 		<input type="text" name="txtTotal">
 	</form>
+    </div>
 	</body>
 </html>
-	
